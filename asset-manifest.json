@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/React-Redux-E-Commerce-Website/static/css/main.1898a279.css",
+    "main.js": "/React-Redux-E-Commerce-Website/static/js/main.1b9b282b.js",
+    "static/js/453.470358f0.chunk.js": "/React-Redux-E-Commerce-Website/static/js/453.470358f0.chunk.js",
+    "static/media/hero-2.jpg": "/React-Redux-E-Commerce-Website/static/media/hero-2.676d51a7daa4ef6d7370.jpg",
+    "static/media/hero-1.jpg": "/React-Redux-E-Commerce-Website/static/media/hero-1.c081bcff664751bf4f02.jpg",
+    "static/media/breadcrumb-bg.jpg": "/React-Redux-E-Commerce-Website/static/media/breadcrumb-bg.3cac33ad09800584ece0.jpg",
+    "static/media/blog-3.jpg": "/React-Redux-E-Commerce-Website/static/media/blog-3.71f4f53c32d76f5acea5.jpg",
+    "static/media/blog-9.jpg": "/React-Redux-E-Commerce-Website/static/media/blog-9.f66156cd692de6b86cd0.jpg",
+    "static/media/blog-7.jpg": "/React-Redux-E-Commerce-Website/static/media/blog-7.207dec93173f3c86c57d.jpg",
+    "static/media/blog-6.jpg": "/React-Redux-E-Commerce-Website/static/media/blog-6.d7513819be3923cd1b0b.jpg",
+    "static/media/blog-8.jpg": "/React-Redux-E-Commerce-Website/static/media/blog-8.e482ac75c629118238be.jpg",
+    "static/media/banner-1.jpg": "/React-Redux-E-Commerce-Website/static/media/banner-1.45fe2b268cef81900571.jpg",
+    "static/media/blog-5.jpg": "/React-Redux-E-Commerce-Website/static/media/blog-5.f71bcb83a7965f98dd16.jpg",
+    "static/media/blog-1.jpg": "/React-Redux-E-Commerce-Website/static/media/blog-1.b1b5897240552578f416.jpg",
+    "static/media/blog-4.jpg": "/React-Redux-E-Commerce-Website/static/media/blog-4.c9c85658c69a68471852.jpg",
+    "static/media/blog-2.jpg": "/React-Redux-E-Commerce-Website/static/media/blog-2.e7678c902e62d2f9e35f.jpg",
+    "static/media/banner-2.jpg": "/React-Redux-E-Commerce-Website/static/media/banner-2.09aec17ea3a36d2e2a44.jpg",
+    "static/media/instagram-1.jpg": "/React-Redux-E-Commerce-Website/static/media/instagram-1.1802abc6f39361fbb5d7.jpg",
+    "static/media/instagram-3.jpg": "/React-Redux-E-Commerce-Website/static/media/instagram-3.f66f2e82ee7647ee0a63.jpg",
+    "static/media/instagram-4.jpg": "/React-Redux-E-Commerce-Website/static/media/instagram-4.47ec0248f1c6690858a7.jpg",
+    "static/media/product-12.jpg": "/React-Redux-E-Commerce-Website/static/media/product-12.476014e4cadd61535040.jpg",
+    "static/media/banner-3.jpg": "/React-Redux-E-Commerce-Website/static/media/banner-3.902e072bfedc4a1cabdf.jpg",
+    "static/media/instagram-6.jpg": "/React-Redux-E-Commerce-Website/static/media/instagram-6.1c64606ad7daaa9648b2.jpg",
+    "static/media/instagram-2.jpg": "/React-Redux-E-Commerce-Website/static/media/instagram-2.11846e87e2b246d70f8d.jpg",
+    "static/media/product-4.jpg": "/React-Redux-E-Commerce-Website/static/media/product-4.a494345c85de12cce04e.jpg",
+    "static/media/logo.svg": "/React-Redux-E-Commerce-Website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-Redux-E-Commerce-Website/index.html",
+    "main.1898a279.css.map": "/React-Redux-E-Commerce-Website/static/css/main.1898a279.css.map",
+    "main.1b9b282b.js.map": "/React-Redux-E-Commerce-Website/static/js/main.1b9b282b.js.map",
+    "453.470358f0.chunk.js.map": "/React-Redux-E-Commerce-Website/static/js/453.470358f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1898a279.css",
+    "static/js/main.1b9b282b.js"
+  ]
+}
